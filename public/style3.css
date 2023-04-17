@@ -1,0 +1,13 @@
+h1{
+    color: red;
+   text-align:center;
+   display:flex;
+   
+   height: 500px;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+    background-color: black
+} 
